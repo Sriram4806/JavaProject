@@ -7,6 +7,8 @@ public class TestJava {
 
 		String str = System.getProperty("user.home");
 		System.out.println(str);
+		
+		System.out.println(str);
 	}
 
 }
