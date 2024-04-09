@@ -1,7 +1,7 @@
 pipeline {
     agent { 
         node {
-            label 'TestNodeOne'
+            label 'TestNode'
             }
       }
     triggers {
